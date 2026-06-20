@@ -1,6 +1,6 @@
 # Beer-Recommender-System
 
-### Project Goal Summary (under 300 words)
+### Project Goal Summary 
 
 This project builds and evaluates a beer recommendation system using 10,000 scraped reviews from BeerAdvocate. The goal is to recommend beers that match a user's specific attribute preferences (e.g., "sweet," "smooth," "hoppy") and have high review sentiment.
 
